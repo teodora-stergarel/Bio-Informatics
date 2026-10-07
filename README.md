@@ -1,2 +1,2 @@
-# Bio-Informatics
-lab 
+# Bioinformatics
+lab tasks
